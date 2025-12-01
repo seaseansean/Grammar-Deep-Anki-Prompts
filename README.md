@@ -22,16 +22,22 @@ AI Prompts for generating grammar-deep Anki cards. Supports Russian (and easily 
 ##  如何使用 (Getting Started)
 
 1.  **选择提示词：** 根据您的 AI 平台语言偏好，复制 `prompt_russian_en.md` 或 `prompt_russian_cn.md` 的内容。
-2.  **粘贴指令：** 将内容粘贴到您的大型语言模型（LLM）平台（如 GPT-4,Gemini,Deepseek中）。
-3.  **输入单词：** 在指令下方输入您想学习的俄语单词（多个即可，无上限）
+2.  **粘贴指令：** 将内容粘贴到您的大型语言模型（LLM）平台上（如 GPT-4,Gemini,Deepseek中），，推荐一开始‘’深度思考‘’，之后为了节约时间提高效率可以不用选择‘’深度思考‘’。
+3.  **输入单词：** 在指令下方输入您想学习的俄语单词（无上限）。
 4.  **导入 Anki：** 将 AI 输出的结构化文本复制到 Anki 字段中。
 
 ---
 
 ## 📊 效果演示 (Demo Screenshot)
 
-以下是使用本Prompt生成的Anki Falshcard效果图。
+以下是使用本 Prompt 生成的 Anki Flashcard 效果图。
 
-** **
+### 名词示例
+![Anki Flashcard 示例-名词](images/Anki_demo_noun.png)
 
+### 动词示例
+![Anki Flashcard 示例-动词](images/Anki_demo_verb.png)
+
+### 形容词示例
+![Anki Flashcard 示例-形容词](images/Anki_demo_adj.png)
 ```markdown
